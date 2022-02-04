@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">interiorX</string>
+
+    <string name="expl1">Be faithful to your own taste,
+        because nothing you really like is ever out of style.</string>
+    <string name="expl2">The best rooms have something to say about
+        the people who live in them.</string>
+    <string name="expl3">Real comfort, visual and physical, is vital
+        to every room.</string>
+    <string name="expl4">The essence of interior design will always
+        be about people and how they live</string>
+
+    <string name="heading1">BILLY BALDWIN</string>
+    <string name="heading2">DAVID HICKS</string>
+    <string name="heading3">MARK HAMPTON</string>
+    <string name="heading4">ALBERT HADLEY</string>
+
+</resources>
